@@ -69,7 +69,7 @@
 </Tracking>
             </TrackingEvents>
             <AdParameters>
-  adrulesversion=2.1,campaignid=1d783b0b-1d85-4eba-b2db-0f92881beeb9,fcapmode=creative,repetitionpolicy=2,repeattime=0,fcapcount=100,fcapwindow=24,position=0,positionpriority=0,positionmode=preferred  
+  adrulesversion=2.1,campaignid=1d783b0b-1d85-4eba-b2db-0f92881beeb9,fcapmode=creative,repetitionpolicy=1,repeattime=0,fcapcount=100,fcapwindow=24,position=0,positionpriority=0,positionmode=preferred  
 </AdParameters>
             <MediaFiles>
               <MediaFile delivery="progressive" width="1920" height="1080" type="video/mp4" scalable="true" maintainAspectRatio="true">
@@ -150,7 +150,7 @@
 </Tracking>
             </TrackingEvents>
             <AdParameters>
-  adrulesversion=2.1,campaignid=1d783b0b-1d85-4eba-b2db-0f92881beeb9,fcapmode=creative,repetitionpolicy=2,repeattime=0,fcapcount=100,fcapwindow=24,position=0,positionpriority=0,positionmode=preferred  
+  adrulesversion=2.1,campaignid=1d783b0b-1d85-4eba-b2db-0f92881beeb9,fcapmode=creative,repetitionpolicy=1,repeattime=0,fcapcount=100,fcapwindow=24,position=0,positionpriority=0,positionmode=preferred  
 </AdParameters>
             <MediaFiles>
               <MediaFile delivery="progressive" width="1920" height="1080" type="video/mp4" scalable="true" maintainAspectRatio="true">
@@ -231,7 +231,7 @@
 </Tracking>
             </TrackingEvents>
             <AdParameters>
-  adrulesversion=2.1,campaignid=1d783b0b-1d85-4eba-b2db-0f92881beeb9,fcapmode=creative,repetitionpolicy=2,repeattime=0,fcapcount=100,fcapwindow=24,position=0,positionpriority=0,positionmode=preferred  
+  adrulesversion=2.1,campaignid=1d783b0b-1d85-4eba-b2db-0f92881beeb9,fcapmode=creative,repetitionpolicy=1,repeattime=0,fcapcount=100,fcapwindow=24,position=0,positionpriority=0,positionmode=preferred  
 </AdParameters>
             <MediaFiles>
               <MediaFile delivery="progressive" width="1920" height="1080" type="video/mp4" scalable="true" maintainAspectRatio="true">
