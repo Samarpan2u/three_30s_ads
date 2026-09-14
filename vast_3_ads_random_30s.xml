@@ -168,15 +168,15 @@
  Campaign Manager 
 </AdSystem>
       <AdTitle>
- KFC 
+ Nike_no_excuse_59s 
 </AdTitle>
       <Impression>
- https://podfusion.g-mana.live/media-server/event?type=pod&amp;creative_id=ef19cd01-4c3c-413b-a4d2-86bcca2333e5&amp;campaign_id=1d783b0b-1d85-4eba-b2db-0f92881beeb9&amp;placement_id=f59bcd30-e437-4460-8f2c-0eb776a030ea&amp;event=impression 
+ https://podfusion.g-mana.live/media-server/event?type=pod&amp;creative_id=ef19cd01-4c3c-413b-a4d2-86bcca2333e6&amp;campaign_id=1d783b0b-1d85-4eba-b2db-0f92881beeb9&amp;placement_id=f59bcd30-e437-4460-8f2c-0eb776a030ea&amp;event=impression 
 </Impression>
       <Creatives>
-        <Creative id="ef19cd01-4c3c-413b-a4d2-86bcca2333e5">
+        <Creative id="ef19cd01-4c3c-413b-a4d2-86bcca2333e6">
           <Linear>
-            <Duration>00:00:30</Duration>
+            <Duration>00:00:59</Duration>
             <TrackingEvents>
               <Tracking event="creativeView">
  https://podfusion.g-mana.live/media-server/event?type=pod&amp;creative_id=ef19cd01-4c3c-413b-a4d2-86bcca2333e5&amp;campaign_id=1d783b0b-1d85-4eba-b2db-0f92881beeb9&amp;placement_id=f59bcd30-e437-4460-8f2c-0eb776a030ea&amp;event=creativeView 
@@ -235,7 +235,7 @@
 </AdParameters>
             <MediaFiles>
               <MediaFile delivery="progressive" width="1920" height="1080" type="video/mp4" scalable="true" maintainAspectRatio="true">
- https://ast.g-mana.online/bmedia-server/67ee697c56355fe6bd165c8a/creatives/ef19cd01-4c3c-413b-a4d2-86bcca2333e5.mp4 
+https://ast.g-mana.online/bmedia-server/68174049b5cbc83ace6a8f93/creatives/a3393778-4ce3-483c-96c4-8cf69d54d8f1.mp4
 </MediaFile>
             </MediaFiles>
           </Linear>
